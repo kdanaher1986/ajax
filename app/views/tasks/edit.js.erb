@@ -1,0 +1,4 @@
+$('.modal-body').html("<%= j render 'form', task: @task %>")
+$('.modal-body form').find('.actions').find('input[type=submit]').remove();
+
+$('.modal').modal()
