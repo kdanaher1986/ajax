@@ -1,25 +1,15 @@
-# README
+Synopsis and Motivation
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An example developed during class at Wyncode with Ed Toro. This was an introduction to AJAX and how to implement it through Rails 5.
 
-Things you may want to cover:
+Installation
 
-* Ruby version
+Clone project and launch through your text editor and terminal.
 
-* System dependencies
+Tests
 
-* Configuration
+Sign up as new user and start creating data through the forms in the next pages. This is like creating a task that allows you to create additional tasks within that task. Only in this case, the first task is a cat, and the inner task is a life.
 
-* Database creation
+Contributors
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# ajax
+This was a personal project in class. 
